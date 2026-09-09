@@ -1,0 +1,1 @@
+Este trabalho analisa estruturas de dados e algoritmos em Python, comparando métodos de ordenação e busca e avaliando seu desempenho em vetores e matrizes.
